@@ -1,4 +1,4 @@
-const Queue = require('../data_structures/Queue')
+const Queue = require('../data_structures/Queue/Queue')
 
 let queue
 beforeEach( () => {

@@ -1,5 +1,5 @@
 const { templateSettings } = require('lodash');
-const Stack = require('../data_structures/Stack')
+const Stack = require('../data_structures/Stack/Stack')
 
 let stack 
 beforeEach(() => {

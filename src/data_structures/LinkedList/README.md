@@ -1,0 +1,3 @@
+Linked lists are linear data structures that are related to one another via pointers. This means a given node will contain both a piece of as well as 
+a pointer to the node that it is linked to. Linked lists are often compared to arrays as they both are linear data structures. They differ, however, 
+in that they are not stored sequentially in memory but rather contain a pointer that references the next item in memory. One advantage of this is that an item can be removed on it's own without having to look up and adjust all other contained items, such as array `shift` and `unshift` methods. 
