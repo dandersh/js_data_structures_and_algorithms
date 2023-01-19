@@ -1,4 +1,4 @@
-const Tree = require('../algorithms/trees');
+const Tree = require('../data_structures/Trees/Trees');
 
 let tree
 beforeEach( () => {
